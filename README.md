@@ -24,7 +24,6 @@ Computer Science graduate from Kathmandu, Nepal, interested in **data science an
 | Languages | Python, C#, SQL |
 | Web development | HTML, Tailwind CSS, Next.js, TypeScript |
 | Data analysis | pandas, NumPy, statistics, Matplotlib, Seaborn |
-| Machine learning and big data | Coursework in Big Data and Artificial Intelligence and Machine Learning |
 | Databases | PostgreSQL, MySQL, MongoDB |
 | Tools | Git, GitHub, Jupyter, Google Colab, Unity |
 
