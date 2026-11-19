@@ -1,6 +1,6 @@
 # Hi, I'm Nishan Jung Suwal
 
-Computer Science graduate from Kathmandu, Nepal, interested in **data science and analytics**. I work with data at CloudFactory and I'm applying for postgraduate study in the UK.
+Computer Science graduate from Bhaktapur, Nepal, interested in **data science and analytics**. I work with data at CloudFactory.
 
 ---
 
